@@ -1,0 +1,1 @@
+export const HOST:string = 'http://124.93.196.45:10191';// 外网映射地址

@@ -1,0 +1,7 @@
+@Component
+struct SwiperComponent  {
+
+  build() {
+
+  }
+}
